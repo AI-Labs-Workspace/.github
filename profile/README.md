@@ -13,7 +13,7 @@ If you are an ML enthusiast and would like to discuss, share ideas, help each ot
 </br></br>
 
 <div align="center">
-    <img width="50%" src="src/files/ai-labs1.gif" alt="AI.gif" >
+    <img width="70%" src="src/files/ai-labs1.gif" alt="AI.gif" >
 </div>
 
 </br></br>
