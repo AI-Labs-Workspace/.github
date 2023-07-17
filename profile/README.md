@@ -2,7 +2,7 @@
 Constructing Solutions using the concepts of Machine & Deep Learning to solve practical scenarios.
 
 <div align="center">
-    <img width="60%" src="src/files/AI-Labs.gif" alt="AI.gif" >
+    <img width="60%" src="src/files/ai-labs.gif" alt="AI.gif" >
 </div>
 
 </br></br>
